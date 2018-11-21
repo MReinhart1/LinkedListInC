@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/Michael/CLionProjects/CISC220-Assn5.1556.c/main.cpp
+stdio.h
+-
+stdlib.h
+-
+stdbool.h
+-
+

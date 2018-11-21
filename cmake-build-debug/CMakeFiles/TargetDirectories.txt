@@ -1,0 +1,3 @@
+/Users/Michael/CLionProjects/CISC220-Assn5.1556.c/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/Michael/CLionProjects/CISC220-Assn5.1556.c/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/Michael/CLionProjects/CISC220-Assn5.1556.c/cmake-build-debug/CMakeFiles/CISC220_Assn5_1556_c.dir
